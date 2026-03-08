@@ -13,7 +13,9 @@ Déploiement d'un serveur mail complet sur infrastructure Proxmox VE, avec confi
 - Comprendre et analyser les headers mail
 
 ---
-| --> | [Serveur Mail Setup(./Projet_mail-server local/README.md) |
+| # | Projet | Description | Status |
+|---|---|---|---|
+| 00 | [Proxmox Setup](./00-Proxmox-Setup/README.md) | Installation et configuration d'un serveur mail Postfix / dovecot local | ✅ Terminé |
 ---
 
 ## Stack technique
