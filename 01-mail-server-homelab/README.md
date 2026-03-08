@@ -1,9 +1,7 @@
 
-# Projet 03 — Serveur Mail Auto-hébergé
+# Serveur Mail Auto-hébergé
 
 Déploiement d'un serveur mail complet sur infrastructure Proxmox VE, avec Postfix, Dovecot, OpenDKIM et Bind9 sur domaine interne `homelab.local`.
-
-> **Repo :** [Serveur-Mail-auto-heberge](https://github.com/4rch3n3my/Serveur-Mail-auto-heberge)
 
 ---
 
