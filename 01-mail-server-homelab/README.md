@@ -1,4 +1,5 @@
-# Serveur Mail Auto-hébergé
+
+# Projet 03 — Serveur Mail Auto-hébergé
 
 Déploiement d'un serveur mail complet sur infrastructure Proxmox VE, avec Postfix, Dovecot, OpenDKIM et Bind9 sur domaine interne `homelab.local`.
 
@@ -499,12 +500,3 @@ Subject: test circuit complet
 ✅ Thunderbird se connecte et envoie  
 ✅ SPF, DKIM, DMARC publiés en DNS interne  
 
----
-
-## Références
-
-- [Documentation Postfix](https://www.postfix.org/documentation.html)
-- [Documentation Dovecot](https://doc.dovecot.org/)
-- [OpenDKIM](http://www.opendkim.org/)
-- [Bind9 — Debian Wiki](https://wiki.debian.org/Bind9)
-- [Comprendre SPF, DKIM, DMARC](https://www.cloudflare.com/learning/email-security/dmarc-dkim-spf/)
