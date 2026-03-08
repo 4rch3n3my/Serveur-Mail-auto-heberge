@@ -15,7 +15,7 @@ Déploiement d'un serveur mail complet sur infrastructure Proxmox VE, avec confi
 ---
 | # | Projet | Description | Status |
 |---|---|---|---|
-| 00 | [Proxmox Setup](./00-Proxmox-Setup/README.md) | Installation et configuration d'un serveur mail Postfix / dovecot local | ✅ Terminé |
+| 00 | [Postfix-dovcot_setup](./00-Proxmox-Setup/README.md) | Installation et configuration d'un serveur mail Postfix / dovecot local | ✅ Terminé |
 ---
 
 ## Stack technique
